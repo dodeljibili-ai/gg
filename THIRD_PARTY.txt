@@ -1,0 +1,1 @@
+This project uses DK22Pac/plugin-sdk at build time. The SDK is not redistributed here; obtain it from its official repository using scripts/build_windows.ps1.
